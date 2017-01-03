@@ -1,5 +1,4 @@
-# OpenSource Science
-## ALIS: Aerosol Indicator for Self-Use
+# (OpenSource Science) ALIS: Aerosol Indicator for Self-Use
 
 ## Background: 
 ### Your health is impacted by the air you breathe.
