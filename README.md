@@ -9,7 +9,7 @@ Nearly half of the people in the United States (147.6 million) live with unhealt
 
 Ok, taking a slight detour, in 2014, approximately 24% of the global population uses smartphones (64%of the population uses cell phones). This population spends $200-$400 per smart device. These smart phones are already capable of  incredible things, from GPS determination, heart rate monitoring, and high-resolution imagery. Can we leverage these devices, that most of us already own, to help inform us about the air we breathe? The answer is YES! 
 
-We have developed the ALIS (pronounced Alice) app and hardware device to easily (cheaply!) provide an instant determination of the local air quality using a photo of the Sun. With minimal effort on your part (take a photo!), and minimal cost (<5% the cost of your phone), you can acquire a precisely calibrated, scientific measurement of air quality. The scientific data can be stored locally on your device or uploaded to a network of global 'citizenScientists'.
+We have developed the ALIS (pronounced Alice) app and hardware device to easily provide an instant determination of the local air quality using a photo of the Sun. With minimal effort on your part (take a photo!), you can acquire a precisely calibrated, scientific measurement of air quality. The scientific data can be stored locally on your device or uploaded to a network of global 'citizenScientists'.
 
 ### Air Quality & the Sun?
 
