@@ -1,4 +1,5 @@
-# ALIS: Aerosol Indicator for Self-Use
+# OpenSource Science
+## ALIS: Aerosol Indicator for Self-Use
 
 ## Background: 
 ### Your health is impacted by the air you breathe.
@@ -26,13 +27,19 @@ ALIS uses a technique implemented by both NASA and the Department of Energy's At
 
 Knowing the air quality index wherever you are at any time of day helps everyone on a variety of levels:
 
-Medical - Asthmatics and those with respiratory ailments can determine medication use or plan ahead for travel based on global air quality reports. 
-Children - Children are greatly impacted by poor air quality. Parents can assess the air quality index in realtime to determine whether playtime outside is safe. 
-Elderly - Aside from children, the elderly are at greatest risk of suffering from upper respiratory distress due to poor air quality. Arm yourself with timely information.
-Sports/Recreation - People that spend a lot of time outside exercising or even gardening can develop or exacerbate upper respiratory issues in locations with poor air quality. Map your air quality throughout the day to decide when it is best to head out.
-Agricultural - Certain crops, vegetation, and livestock can be negatively impacted by poor air quality. Inform yourself in order to take action or prepare. 
-Educational - Inform yourself, students, friends, and family about the air quality where you live. What is the science behind it? Can we do anything to make it better? Just because you can't always see poor air quality with your eyes, doesn't mean it isn't effecting you everyday.
-Environmental - Data acquired could be used to modify or enhance existing national (e.g. NOAA, NASA) and international (e.g. EuroSkyRad) air quality monitoring networks .
+* Medical - Asthmatics and those with respiratory ailments can determine medication use or plan ahead for travel based on global air quality reports. 
+
+* Children - Children are greatly impacted by poor air quality. Parents can assess the air quality index in realtime to determine whether playtime outside is safe. 
+
+* Elderly - Aside from children, the elderly are at greatest risk of suffering from upper respiratory distress due to poor air quality. Arm yourself with timely information.
+
+* Sports/Recreation - People that spend a lot of time outside exercising or even gardening can develop or exacerbate upper respiratory issues in locations with poor air quality. Map your air quality throughout the day to decide when it is best to head out.
+
+* Agricultural - Certain crops, vegetation, and livestock can be negatively impacted by poor air quality. Inform yourself in order to take action or prepare.
+
+* Educational - Inform yourself, students, friends, and family about the air quality where you live. What is the science behind it? Can we do anything to make it better? Just because you can't always see poor air quality with your eyes, doesn't mean it isn't effecting you everyday.
+
+* Environmental - Data acquired could be used to modify or enhance existing national (e.g. NOAA, NASA) and international (e.g. EuroSkyRad) air quality monitoring networks .
 
 ## Notes:
 iphone 5/6 objective c project for turngin your iphone into a sunphotometer. Requires additional hardware optics. Details to be uploaded.
